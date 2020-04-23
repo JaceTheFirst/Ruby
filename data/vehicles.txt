@@ -1,0 +1,3 @@
+Maseratti MC12;supercar;100000;true
+VAZ2107;tazik;2000;true
+KAMAZ;gruzovik;50000;false
